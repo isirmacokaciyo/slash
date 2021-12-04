@@ -6,7 +6,7 @@
 
 Forklamak için 
 - 1). Buraya [Tıkla](https://github.com/Alewua/slash)
-- 2). Terminal uygulamanı aç ve `git clone https://github.com/Alewua/slash.git`
+- 2). Terminal uygulamanı aç ve `git clone https://github.com/isirmacokaciyo/slash.git`
 
 Diğer paketleri yüklemek için
 - `npm install`
